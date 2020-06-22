@@ -1,0 +1,13 @@
+Concept:
+Cabbage Escape
+Start off in a bowl -- want to escape
+Infinitely long plane
+randomly spawned carrot obstacles
+(some will fall over)
+Try to get as far as you can without crashing into a carrot
+Always going forward
+Banana powerup (maybe clear the way)
+
+Inspiration:
+Following Brackeys tutorial - got up to E05 before ignore lol
+he named something "Obstacle" - I shortened it to "Obst" = fruit in German
